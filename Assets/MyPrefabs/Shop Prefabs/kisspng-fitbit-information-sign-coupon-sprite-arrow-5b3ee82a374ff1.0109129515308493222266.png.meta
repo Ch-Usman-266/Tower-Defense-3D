@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 72bdf99649e9cf841bba5da517e33b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7752087882358538567
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_0
+  - first:
+      213: -4852311779120264631
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_1
+  - first:
+      213: -218742135580861155
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_2
+  - first:
+      213: 4425936093515625083
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_3
+  - first:
+      213: -4622409940806170862
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_4
+  - first:
+      213: 3796507014802231510
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_5
+  - first:
+      213: -6033048524283290037
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_6
+  - first:
+      213: -8276826722883795491
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_7
+  - first:
+      213: 454155334432854105
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_8
+  - first:
+      213: 4542937975585191290
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_9
+  - first:
+      213: -8285321626284577764
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_10
+  - first:
+      213: 7390407349533240610
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_11
+  - first:
+      213: -4478303178275352009
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_12
+  - first:
+      213: -2986135108291453420
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_13
+  - first:
+      213: -8602061325144697824
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_14
+  - first:
+      213: 3617211720670968342
+    second: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 28, y: 39, z: 29, w: 41}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 365
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ac712452029acb0800000000000000
+      internalID: -4852311779120264631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 358
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72349c6d651c6d30800000000000000
+      internalID: 4425936093515625083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 378
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217830046a6e9dfb0800000000000000
+      internalID: -4622409940806170862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 360
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d094e307efa430800000000000000
+      internalID: 3796507014802231510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 218
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e5665e45e464ca0800000000000000
+      internalID: -6033048524283290037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 200
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd50d03b2fdc22d80800000000000000
+      internalID: -8276826722883795491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 200
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75336fe402cb0f30800000000000000
+      internalID: 4542937975585191290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 218
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c227fd0ef940d80800000000000000
+      internalID: -8285321626284577764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 38
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73215668cfed9d1c0800000000000000
+      internalID: -4478303178275352009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 40
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e17f2b0fd1f86d0800000000000000
+      internalID: -2986135108291453420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 40
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024df9aecc65f9880800000000000000
+      internalID: -8602061325144697824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-fitbit-information-sign-coupon-sprite-arrow-5b3ee82a374ff1.0109129515308493222266_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 40
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af8f725eae23230800000000000000
+      internalID: 3617211720670968342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -188, y: -121}
+      - {x: -202, y: -121}
+      - {x: -202, y: -197}
+      - {x: -198, y: -201}
+      - {x: -194, y: -202}
+      - {x: -168, y: -202}
+      - {x: -168, y: -140}
+      - {x: -173, y: -133}
+    - - {x: -95, y: -202}
+      - {x: -81, y: -202}
+      - {x: -45, y: -170}
+      - {x: -45, y: -158}
+      - {x: -77, y: -118}
+      - {x: -94, y: -118}
+      - {x: -95, y: -121}
+    - - {x: 67, y: -118}
+      - {x: 55, y: -130}
+      - {x: 55, y: -135}
+      - {x: 58, y: -140}
+      - {x: 64, y: -202}
+      - {x: 75, y: -202}
+      - {x: 78, y: -200}
+      - {x: 85, y: -135}
+      - {x: 85, y: -130}
+      - {x: 73, y: -118}
+    - - {x: 205, y: -118}
+      - {x: 203, y: -119}
+      - {x: 184, y: -134}
+      - {x: 184, y: -202}
+      - {x: 214, y: -202}
+      - {x: 236, y: -166}
+      - {x: 236, y: -136}
+      - {x: 224, y: -118}
+    - - {x: -250, y: -118}
+      - {x: -252, y: -124}
+      - {x: -252, y: -176}
+      - {x: -245, y: -185}
+      - {x: -229, y: -199}
+      - {x: -218, y: -199}
+      - {x: -218, y: -120}
+      - {x: -234, y: -118}
+    - - {x: -89, y: 42}
+      - {x: -90, y: 41}
+      - {x: -90, y: -42}
+      - {x: -78, y: -42}
+      - {x: -50, y: -9}
+      - {x: -50, y: 3}
+      - {x: -75, y: 42}
+    - - {x: 68, y: 10}
+      - {x: 28, y: -22}
+      - {x: 28, y: -39}
+      - {x: 112, y: -39}
+      - {x: 112, y: -30}
+      - {x: 80, y: 10}
+    - - {x: -169, y: -24}
+      - {x: -168, y: -21}
+      - {x: -168, y: -13}
+      - {x: -207, y: 24}
+      - {x: -213, y: 24}
+      - {x: -252, y: -11}
+      - {x: -252, y: -22}
+      - {x: -251, y: -24}
+      - {x: -243, y: -24}
+      - {x: -215, y: 2}
+      - {x: -181, y: -23}
+      - {x: -178, y: -24}
+    - - {x: 194, y: 24}
+      - {x: 168, y: 5}
+      - {x: 168, y: -19}
+      - {x: 195, y: -24}
+      - {x: 231, y: -24}
+      - {x: 252, y: -10}
+      - {x: 252, y: 3}
+      - {x: 231, y: 24}
+    - - {x: 72, y: 39}
+      - {x: 68, y: 39}
+      - {x: 61, y: 34}
+      - {x: 28, y: 5}
+      - {x: 28, y: -10}
+      - {x: 112, y: -10}
+      - {x: 112, y: -1}
+      - {x: 109, y: 3}
+      - {x: 77, y: 35}
+    - - {x: -49, y: 166}
+      - {x: -56, y: 166}
+      - {x: -60, y: 157}
+      - {x: -111, y: 150}
+      - {x: -112, y: 148}
+      - {x: -112, y: 134}
+      - {x: -61, y: 118}
+      - {x: -42, y: 118}
+      - {x: -28, y: 137}
+      - {x: -28, y: 145}
+    - - {x: 219, y: 202}
+      - {x: 190, y: 169}
+      - {x: 190, y: 156}
+      - {x: 213, y: 118}
+      - {x: 230, y: 118}
+      - {x: 230, y: 202}
+    - - {x: -252, y: 170}
+      - {x: -252, y: 135}
+      - {x: -228, y: 121}
+      - {x: -204, y: 121}
+      - {x: -168, y: 151}
+      - {x: -168, y: 170}
+    - - {x: 28, y: 184}
+      - {x: 28, y: 173}
+      - {x: 67, y: 136}
+      - {x: 73, y: 136}
+      - {x: 112, y: 171}
+      - {x: 112, y: 184}
+    - - {x: -251, y: 199}
+      - {x: -252, y: 196}
+      - {x: -252, y: 186}
+      - {x: -212, y: 150}
+      - {x: -208, y: 150}
+      - {x: -168, y: 190}
+      - {x: -168, y: 199}
+    - - {x: -28, y: 186}
+      - {x: -79, y: 202}
+      - {x: -98, y: 202}
+      - {x: -112, y: 183}
+      - {x: -112, y: 175}
+      - {x: -91, y: 154}
+      - {x: -84, y: 154}
+      - {x: -80, y: 163}
+      - {x: -29, y: 170}
+      - {x: -28, y: 172}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
